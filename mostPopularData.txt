@@ -1,0 +1,1430 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5L6kcaPMH-hGrqkSxcIK_Hx99Vw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ccjzIhdNe6q3f5HVeoVX8sCz0LI",
+            "id": "UJ9Iz7HhU-I",
+            "snippet": {
+                "publishedAt": "2022-09-13T14:52:36Z",
+                "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+                "title": "Nintendo Direct 9.13.2022",
+                "description": "Tune in for a Nintendo Direct livestream featuring roughly 40 minutes of information mostly focused on Nintendo Switch games launching this winter.\n\nVisit the official site: https://www.nintendo.com/nintendo-direct/09-13-2022/\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\r\n\r\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UJ9Iz7HhU-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UJ9Iz7HhU-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UJ9Iz7HhU-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nintendo",
+                "tags": [
+                    "adventure",
+                    "fun",
+                    "game",
+                    "gameplay",
+                    "nintendo",
+                    "Nintendo Direct",
+                    "Nintendo Direct 9.13.2022",
+                    "nintendo direct",
+                    "nintendo direct september 13 2022",
+                    "nintendo direct 9/13/2022",
+                    "nintendo direct 9/13/22",
+                    "zelda",
+                    "new zelda",
+                    "legend of zelda",
+                    "breath of the wild",
+                    "breath of the wild 2",
+                    "breath of the wild sequel",
+                    "The Legend of Zelda Tears of the Kingdom",
+                    "zelda tears of the kingdom",
+                    "tears of the kingdom",
+                    "pikmin 4",
+                    "pikmin",
+                    "pikmin switch",
+                    "fire emblem",
+                    "fire emblem switch",
+                    "splatoon 3",
+                    "splatoon 3 splatfest"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Nintendo Direct 9.13.2022",
+                    "description": "Tune in for a Nintendo Direct livestream featuring roughly 40 minutes of information mostly focused on Nintendo Switch games launching this winter.\n\nVisit the official site: https://www.nintendo.com/nintendo-direct/09-13-2022/\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\r\n\r\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Kh6wEdbtsb-FfmF5pP2A_HzC0tQ",
+            "id": "2SNF4M_v7wc",
+            "snippet": {
+                "publishedAt": "2022-09-13T14:45:43Z",
+                "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+                "title": "The Legend of Zelda: Tears of the Kingdom – Coming May 12th, 2023 – Nintendo Switch",
+                "description": "The title for the sequel to The Legend of Zelda: Breath of the Wild has been revealed! The Legend of Zelda: Tears of the Kingdom will launch on Nintendo Switch May 12th, 2023.\n\nWishlist today: https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/\n\n#LegendofZelda #TearsoftheKingdom #NintendoSwitch \n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\r\n\r\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2SNF4M_v7wc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2SNF4M_v7wc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2SNF4M_v7wc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nintendo",
+                "tags": [
+                    "The Legend of Zelda: Tears of the Kingdom",
+                    "nintendo",
+                    "game",
+                    "gameplay",
+                    "video game",
+                    "nintendo switch",
+                    "The Legend of Zelda: Tears of the Kingdom release date",
+                    "Announcement Trailer",
+                    "The Legend of Zelda: Tears of the Kingdom trailer",
+                    "The Legend of Zelda: Tears of the Kingdom nintendo switch",
+                    "botw 2",
+                    "breath of the wild 2",
+                    "breath of the wild sequel",
+                    "zelda breath of the wild",
+                    "botw",
+                    "botw 2 release date",
+                    "new zelda game",
+                    "zelda tears of the kingdom",
+                    "zelda botw 2",
+                    "zelda switch game",
+                    "link botw"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Legend of Zelda: Tears of the Kingdom – Coming May 12th, 2023 – Nintendo Switch",
+                    "description": "The title for the sequel to The Legend of Zelda: Breath of the Wild has been revealed! The Legend of Zelda: Tears of the Kingdom will launch on Nintendo Switch May 12th, 2023.\n\nWishlist today: https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/\n\n#LegendofZelda #TearsoftheKingdom #NintendoSwitch \n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\r\n\r\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "9Jci-IgjTCdl_3GPrqjwC9a_ZSo",
+            "id": "hfJ4Km46A-0",
+            "snippet": {
+                "publishedAt": "2022-09-13T22:22:10Z",
+                "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+                "title": "God of War Ragnarök - State of Play Sep 2022 Story Trailer | PS5 & PS4 Games",
+                "description": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/\n\nSet out on an epic and unflinching journey as Kratos and Atreus struggle with holding on and letting go.\n\nWitness the changing dynamic of their relationship as they prepare for war; Atreus hungers for knowledge to help him grasp the prophecy of “Loki”, as Kratos struggles to free himself from the past and be the father his son needs. All the while, the eyes of Asgard watch their every move…\n\nGod of War Ragnarök is coming to PS4 and PS5 on November 9th. Find out more at: play.st/GOWR\n\n©2022 Sony Interactive Entertainment LLC. God of War is a registered trademark of Sony Interactive Entertainment LLC and related companies in the U.S. and other countries. “PlayStation Family Mark”, “PlayStation”, “PlayStation Studios logo”, \"\"PS4\"\", and “PS5” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.\n\n#ps5games #ps4games #godofwarragnarok",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hfJ4Km46A-0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hfJ4Km46A-0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hfJ4Km46A-0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hfJ4Km46A-0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hfJ4Km46A-0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PlayStation",
+                "tags": [
+                    "ps5",
+                    "games",
+                    "ps4games",
+                    "godofwarragnarok",
+                    "god of war",
+                    "loki",
+                    "state of play",
+                    "story"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "God of War Ragnarök - State of Play Sep 2022 Story Trailer | PS5 & PS4 Games",
+                    "description": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/\n\nSet out on an epic and unflinching journey as Kratos and Atreus struggle with holding on and letting go.\n\nWitness the changing dynamic of their relationship as they prepare for war; Atreus hungers for knowledge to help him grasp the prophecy of “Loki”, as Kratos struggles to free himself from the past and be the father his son needs. All the while, the eyes of Asgard watch their every move…\n\nGod of War Ragnarök is coming to PS4 and PS5 on November 9th. Find out more at: play.st/GOWR\n\n©2022 Sony Interactive Entertainment LLC. God of War is a registered trademark of Sony Interactive Entertainment LLC and related companies in the U.S. and other countries. “PlayStation Family Mark”, “PlayStation”, “PlayStation Studios logo”, \"\"PS4\"\", and “PS5” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.\n\n#ps5games #ps4games #godofwarragnarok"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "N2Y9kFzi6kq4paxTXFoAwaAd7Ks",
+            "id": "ike-P6qFAzs",
+            "snippet": {
+                "publishedAt": "2022-09-13T21:10:48Z",
+                "channelId": "UCWwWOFsW68TqXE-HZLC3WIA",
+                "title": "THE DAY AFTER THE FIGHT!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ike-P6qFAzs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ike-P6qFAzs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ike-P6qFAzs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The ACE Family",
+                "tags": [
+                    "the day after the fight",
+                    "the ace family the day after the fight",
+                    "ace family the day after the fight",
+                    "after the fight",
+                    "Austin vs gib",
+                    "boxing match",
+                    "social gloves",
+                    "the ace family",
+                    "ace family"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "THE DAY AFTER THE FIGHT!",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "R_CXkfvXrFQ9mznwwocSK1NMGwE",
+            "id": "QgmQNrlhMVQ",
+            "snippet": {
+                "publishedAt": "2022-09-13T20:56:48Z",
+                "channelId": "UCrm-qtg2eXZ7MceH7m21uog",
+                "title": "Rest in Peace Dad",
+                "description": "heartbroken. I want my family back:(\nhttps://www.gofundme.com/f/with-the-loss-of-john-pappas",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QgmQNrlhMVQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QgmQNrlhMVQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QgmQNrlhMVQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QgmQNrlhMVQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QgmQNrlhMVQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Steph Pappas",
+                "tags": [
+                    "Steph Pappas",
+                    "steph",
+                    "pappas",
+                    "mukbang",
+                    "Steph papas",
+                    "eatingshow",
+                    "food",
+                    "review",
+                    "challenge",
+                    "21",
+                    "girl",
+                    "female",
+                    "eating",
+                    "funny",
+                    "pretty",
+                    "mukbanging",
+                    "foodreview",
+                    "relaxing",
+                    "asmr",
+                    "eatwithme",
+                    "cooking",
+                    "recipes"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Rest in Peace Dad",
+                    "description": "heartbroken. I want my family back:(\nhttps://www.gofundme.com/f/with-the-loss-of-john-pappas"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7LiN1PeD1rm_q2vuSltDrkq2o1g",
+            "id": "-D9c3bY2UrA",
+            "snippet": {
+                "publishedAt": "2022-09-13T13:00:00Z",
+                "channelId": "UCgPClNr5VSYC3syrDUIlzLw",
+                "title": "FULL EPISODE | Rick and Morty Season 6 Premiere: Solaricks | adult swim",
+                "description": "They're back, baby! The Smiths deal with last season's fallout, and Rick and Morty are stranded in space floating in the remnants of the Citadel. \n\nCatch season 6 of Rick and Morty Sundays at 11pm on [adult swim]. Stream seasons 1-5 now on HBO Max: http://bit.ly/3hRw9rU\n\n#AdultSwim #RickAndMorty \n\nWatch Adult Swim on HBO Max: http://bit.ly/3Gy0aXA\nSUBSCRIBE: https://youtube.com/adultswim1?sub_confirmation=1\n\nWhat to watch next: more Rick and Morty clips!\nhttps://youtube.com/playlist?list=PLQl8zBB7bPvL6GycjAtAibVp6FsLWvMcY\n\nAbout Adult Swim:\nWatch Adult Swim on HBO Max, www.adultswim.com, or by downloading the Adult Swim app. Binge marathons or watch selected episodes of many of your favorite shows including Rick and Morty, SMILING FRIENDS, The Boondocks, Aqua Teen Hunger Force, and many more.\n\nConnect with Adult Swim Online:\nDownload the APPS: http://www.adultswim.com/apps/\nVisit Adult Swim WEBSITE: http://www.adultswim.com\nLike Adult Swim on FACEBOOK: https://facebook.com/adultswim\nFollow Adult Swim on TWITTER: https://twitter.com/adultswim\nFollow Adult Swim on INSTAGRAM: http://instagram.com/adultswim\n\nWatch Adult Swim in your country:\nUnited Kingdom: https://bit.ly/AS_GB\nRepublic of Ireland: https://bit.ly/AS_GB\nUSA: https://bit.ly/AS_US\nFrance: https://bit.ly/AS_FRA\nGermany: https://bit.ly/AS_GERMAN\nItaly: https://bit.ly/AS_IT\nCentral and Eastern Europe: https://bit.ly/AS_HBOMAX\nDenmark: https://bit.ly/AS_HBOMAX\nFinland: https://bit.ly/AS_HBOMAX\nHungary: https://bit.ly/AS_HBOMAX\nNetherlands: https://bit.ly/AS_HBOMAX\nNorway: https://bit.ly/AS_HBOMAX\nPoland: https://bit.ly/AS_HBOMAX\nAustralia: https://bit.ly/AS_AU\nNew Zealand: https://bit.ly/AS_NZL\nCanada: https://bit.ly/3Qd3iy1\n\n\nFULL EPISODE | Rick and Morty Season 6 Premiere: Solaricks | adult swim",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-D9c3bY2UrA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-D9c3bY2UrA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-D9c3bY2UrA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-D9c3bY2UrA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-D9c3bY2UrA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Adult Swim",
+                "tags": [
+                    "adult swim",
+                    "animation",
+                    "adult animation",
+                    "comedy series",
+                    "watch adult swim",
+                    "adult swim official",
+                    "Rick and Morty",
+                    "Rick & Morty",
+                    "Rick and Morty Season 6",
+                    "Watch Rick and Morty",
+                    "Science Fiction",
+                    "Multiverse",
+                    "Dan Harmon",
+                    "Justin Roiland",
+                    "Chris Parnell",
+                    "Sarah Chalke",
+                    "Rick",
+                    "Morty",
+                    "Summer",
+                    "Beth",
+                    "Jerry",
+                    "Rick and morty full episode",
+                    "rick and morty season 6 episodes",
+                    "rick and morty season 6 episode 1",
+                    "watch rick and morty",
+                    "rick and morty new season",
+                    "rick and morty new episode",
+                    "new rick and morty"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "FULL EPISODE | Rick and Morty Season 6 Premiere: Solaricks | adult swim",
+                    "description": "They're back, baby! The Smiths deal with last season's fallout, and Rick and Morty are stranded in space floating in the remnants of the Citadel. \n\nCatch season 6 of Rick and Morty Sundays at 11pm on [adult swim]. Stream seasons 1-5 now on HBO Max: http://bit.ly/3hRw9rU\n\n#AdultSwim #RickAndMorty \n\nWatch Adult Swim on HBO Max: http://bit.ly/3Gy0aXA\nSUBSCRIBE: https://youtube.com/adultswim1?sub_confirmation=1\n\nWhat to watch next: more Rick and Morty clips!\nhttps://youtube.com/playlist?list=PLQl8zBB7bPvL6GycjAtAibVp6FsLWvMcY\n\nAbout Adult Swim:\nWatch Adult Swim on HBO Max, www.adultswim.com, or by downloading the Adult Swim app. Binge marathons or watch selected episodes of many of your favorite shows including Rick and Morty, SMILING FRIENDS, The Boondocks, Aqua Teen Hunger Force, and many more.\n\nConnect with Adult Swim Online:\nDownload the APPS: http://www.adultswim.com/apps/\nVisit Adult Swim WEBSITE: http://www.adultswim.com\nLike Adult Swim on FACEBOOK: https://facebook.com/adultswim\nFollow Adult Swim on TWITTER: https://twitter.com/adultswim\nFollow Adult Swim on INSTAGRAM: http://instagram.com/adultswim\n\nWatch Adult Swim in your country:\nUnited Kingdom: https://bit.ly/AS_GB\nRepublic of Ireland: https://bit.ly/AS_GB\nUSA: https://bit.ly/AS_US\nFrance: https://bit.ly/AS_FRA\nGermany: https://bit.ly/AS_GERMAN\nItaly: https://bit.ly/AS_IT\nCentral and Eastern Europe: https://bit.ly/AS_HBOMAX\nDenmark: https://bit.ly/AS_HBOMAX\nFinland: https://bit.ly/AS_HBOMAX\nHungary: https://bit.ly/AS_HBOMAX\nNetherlands: https://bit.ly/AS_HBOMAX\nNorway: https://bit.ly/AS_HBOMAX\nPoland: https://bit.ly/AS_HBOMAX\nAustralia: https://bit.ly/AS_AU\nNew Zealand: https://bit.ly/AS_NZL\nCanada: https://bit.ly/3Qd3iy1\n\n\nFULL EPISODE | Rick and Morty Season 6 Premiere: Solaricks | adult swim"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "qMAqDdxcyACDr4p_rUWHP3FgUeo",
+            "id": "aywlRsohBPY",
+            "snippet": {
+                "publishedAt": "2022-09-13T22:26:24Z",
+                "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+                "title": "State of Play | September 13, 2022 | [English]",
+                "description": "Rated RP – Mature\nWith Tokyo Game Show around the corner, it's time to recognize the amazing contributions of Japanese game developers and studios around the world. Our next State of Play hits Tuesday, September 13 with about 20 minutes of updates and reveals for 10 games coming to PS5, PS4, and PS VR2.\n\n#playstation #ps5games",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aywlRsohBPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aywlRsohBPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aywlRsohBPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PlayStation",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "State of Play | September 13, 2022 | [English]",
+                    "description": "Rated RP – Mature\nWith Tokyo Game Show around the corner, it's time to recognize the amazing contributions of Japanese game developers and studios around the world. Our next State of Play hits Tuesday, September 13 with about 20 minutes of updates and reveals for 10 games coming to PS5, PS4, and PS VR2.\n\n#playstation #ps5games"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "bDMClXn4QgF85dmCI3ZLD1GJhXk",
+            "id": "zFO8_dLo8Oo",
+            "snippet": {
+                "publishedAt": "2022-09-13T19:03:46Z",
+                "channelId": "UClyGlKOhDUooPJFy4v_mqPg",
+                "title": "Twitch Chat and I invaded Europe with Artificial Intelligence",
+                "description": "I've invented a new board game and it's insane.\n\nThis was streamed live on Twitch! https://bit.ly/DougTwitch\nFull stream recording: https://www.youtube.com/watch?v=VpmmuHlLPM0\n\nEdited by Berry Bebop! https://www.youtube.com/c/berrybebop\n\nMy 2nd Channel: http://bit.ly/dougdoug2\nTwitter: https://twitter.com/DougDougFood\nSubscribe: https://bit.ly/dougdougsubsub\n\nMore DugDug:\nLatest Uploads: https://www.youtube.com/watch?v=rp4cH7mb4X4&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2\nExplained with Food: https://www.youtube.com/playlist?list=PLzTxt5iYdhzjMJF--_xpj4s4jgOPe0NWF\nDougDoug Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#AI #Europe #Classroom",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zFO8_dLo8Oo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zFO8_dLo8Oo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zFO8_dLo8Oo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DougDoug",
+                "tags": [
+                    "DougDoug",
+                    "DougDoug Youtube Channel",
+                    "Channel Youtube DougDoug",
+                    "doug doug",
+                    "twitch",
+                    "twitch chat",
+                    "dougdoug twitch chat",
+                    "twitch chat plays",
+                    "dougdoug twitch",
+                    "ai",
+                    "artificial intelligence",
+                    "novel ai",
+                    "novelai",
+                    "europe",
+                    "risk",
+                    "ai risk",
+                    "chatistan",
+                    "dougtopia",
+                    "pope",
+                    "germany",
+                    "france",
+                    "luxembourg",
+                    "vatican city",
+                    "emperor"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Twitch Chat and I invaded Europe with Artificial Intelligence",
+                    "description": "I've invented a new board game and it's insane.\n\nThis was streamed live on Twitch! https://bit.ly/DougTwitch\nFull stream recording: https://www.youtube.com/watch?v=VpmmuHlLPM0\n\nEdited by Berry Bebop! https://www.youtube.com/c/berrybebop\n\nMy 2nd Channel: http://bit.ly/dougdoug2\nTwitter: https://twitter.com/DougDougFood\nSubscribe: https://bit.ly/dougdougsubsub\n\nMore DugDug:\nLatest Uploads: https://www.youtube.com/watch?v=rp4cH7mb4X4&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2\nExplained with Food: https://www.youtube.com/playlist?list=PLzTxt5iYdhzjMJF--_xpj4s4jgOPe0NWF\nDougDoug Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#AI #Europe #Classroom"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "SCL9wtUXOLk_CYGYjfGakCFravA",
+            "id": "virbhp8DFzk",
+            "snippet": {
+                "publishedAt": "2022-09-14T00:00:29Z",
+                "channelId": "UC4rqhyiTs7XyuODcECvuiiQ",
+                "title": "Ex-Exclusives - Scott The Woz",
+                "description": "Scott ex-looks at ex-ex-exclusives.\n\nTwitter: https://www.twitter.com/ScottTheWoz\r\nFacebook: https://www.facebook.com/ScottTheWoz/\r\nInstagram: https://www.instagram.com/scottthewoz/\n\nMusic Used:\nComing Soon",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/virbhp8DFzk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/virbhp8DFzk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/virbhp8DFzk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Scott The Woz",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Ex-Exclusives - Scott The Woz",
+                    "description": "Scott ex-looks at ex-ex-exclusives.\n\nTwitter: https://www.twitter.com/ScottTheWoz\r\nFacebook: https://www.facebook.com/ScottTheWoz/\r\nInstagram: https://www.instagram.com/scottthewoz/\n\nMusic Used:\nComing Soon"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mi5W3RblUTeR52LoXAa5ZfJKzfE",
+            "id": "WuJhr9QRoMk",
+            "snippet": {
+                "publishedAt": "2022-09-13T21:09:16Z",
+                "channelId": "UCET00YnetHT7tOpu12v8jxg",
+                "title": "Bayern vs. Barcelona: Extended Highlights | UCL Group Stage MD 2 | CBS Sports Golazo",
+                "description": "If you can’t beat them? Barcelona has known nothing but woe vs. Bayern of late. But now they take to the pitch with Bayern’s former star man Lewandowski. \n\nStream every UEFA Champions League match live on Paramount+:\nhttps://www.paramountplus.com/shows/uefa-champions-league/\n\n #UCL #ChampionsLeague #UEFA #bayern #bayernmunich #barcelona",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WuJhr9QRoMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WuJhr9QRoMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WuJhr9QRoMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CBS Sports Golazo",
+                "tags": [
+                    "Barcelona",
+                    "FC Bayern München",
+                    "FC Bayern München vs. Barcelona"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Bayern vs. Barcelona: Extended Highlights | UCL Group Stage MD 2 | CBS Sports Golazo",
+                    "description": "If you can’t beat them? Barcelona has known nothing but woe vs. Bayern of late. But now they take to the pitch with Bayern’s former star man Lewandowski. \n\nStream every UEFA Champions League match live on Paramount+:\nhttps://www.paramountplus.com/shows/uefa-champions-league/\n\n #UCL #ChampionsLeague #UEFA #bayern #bayernmunich #barcelona"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "bB_dAF_uxd8VlJTl06F33996Rho",
+            "id": "hQAMsCm6jkE",
+            "snippet": {
+                "publishedAt": "2022-09-13T19:00:02Z",
+                "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+                "title": "Kylie & Kris Jenner Cook Dinner Together | Vogue",
+                "description": "Kris Jenner and Kylie Jenner step into the kitchen before sampling the new limited-edition Kylie Cosmetics collection inspired by Kris herself. What better way to celebrate the return of their Hulu series “The Kardashians” than pasta dinner with martinis?\r\n\r\nKris Collection by Kylie Cosmetics, a limited-edition collection inspired by Kris Jenner, her iconic floral look, and her love of martinis! Launching on September 14th - http://KylieCosmetics.com\r\n\r\nThe new season of the HULU show, The Kardashians, premieres on September 22.\r\n\r\nDirector: Alexandra Gavillet\r\nDirector of Photography: Fiorella Occhipinti\r\nEditor: Robby Massey\r\nProducer: Naomi Nishi\r\nAssociate Producer: Courtney Walden\r\nVP, Digital Video English, Vogue: Thespena Guatieri\r\nEntertainment Director, Vogue: Sergio Kletnoy\r\nAssociate Director, Creative Development: Alexandra Gurvitch\r\nAC: Tessa Kier\r\nCam Op: Chloe Weaver\r\nGaffer: Corey Millikin\r\nFood Stylist: Brett Long\r\nAudio: Glo Marie\r\nCCO: Moe Sherwood\r\nProduction Assistants: Phillip Arlis, Marquis Wooten\r\nProduction Coordinator: Ava Kashar\r\nProduction Manager: Kit Fogarty\r\nSenior Director, Production Management: Jessica Shier\r\nSupervising Editor: Kameron Key\r\nPost Production Supervisor: Marco Glinbizzi\r\nDirector of Content, Production, Vogue: Rahel Gebreyes\r\nSenior Director, Programming, Vogue: Linda Gittleson\r\nExecutive Producer: Ruhiya Nuruddin\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hQAMsCm6jkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hQAMsCm6jkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hQAMsCm6jkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vogue",
+                "tags": [
+                    "cooking vogue",
+                    "kris and kylie cooking together",
+                    "kris and kylie jenner cooking",
+                    "kris jenner",
+                    "kris jenner cooking",
+                    "kris jenner kylie jenner cooking",
+                    "kris jenner recipe",
+                    "kylie jenner",
+                    "kylie jenner cooking",
+                    "kylie jenner interview",
+                    "kylie jenner pasta",
+                    "kylie jenner recipe",
+                    "kylie jenner vogue",
+                    "kylie jenner vogue interview",
+                    "martini",
+                    "mother daughter",
+                    "mother daughter cooking",
+                    "pasta recipe",
+                    "vogue",
+                    "vogue cooking",
+                    "vogue kylie jenner"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Kylie & Kris Jenner Cook Dinner Together | Vogue",
+                    "description": "Kris Jenner and Kylie Jenner step into the kitchen before sampling the new limited-edition Kylie Cosmetics collection inspired by Kris herself. What better way to celebrate the return of their Hulu series “The Kardashians” than pasta dinner with martinis?\r\n\r\nKris Collection by Kylie Cosmetics, a limited-edition collection inspired by Kris Jenner, her iconic floral look, and her love of martinis! Launching on September 14th - http://KylieCosmetics.com\r\n\r\nThe new season of the HULU show, The Kardashians, premieres on September 22.\r\n\r\nDirector: Alexandra Gavillet\r\nDirector of Photography: Fiorella Occhipinti\r\nEditor: Robby Massey\r\nProducer: Naomi Nishi\r\nAssociate Producer: Courtney Walden\r\nVP, Digital Video English, Vogue: Thespena Guatieri\r\nEntertainment Director, Vogue: Sergio Kletnoy\r\nAssociate Director, Creative Development: Alexandra Gurvitch\r\nAC: Tessa Kier\r\nCam Op: Chloe Weaver\r\nGaffer: Corey Millikin\r\nFood Stylist: Brett Long\r\nAudio: Glo Marie\r\nCCO: Moe Sherwood\r\nProduction Assistants: Phillip Arlis, Marquis Wooten\r\nProduction Coordinator: Ava Kashar\r\nProduction Manager: Kit Fogarty\r\nSenior Director, Production Management: Jessica Shier\r\nSupervising Editor: Kameron Key\r\nPost Production Supervisor: Marco Glinbizzi\r\nDirector of Content, Production, Vogue: Rahel Gebreyes\r\nSenior Director, Programming, Vogue: Linda Gittleson\r\nExecutive Producer: Ruhiya Nuruddin\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates."
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "254bLLVQWisTknYy1d-7OeYUS_w",
+            "id": "FLg-TIXNpAY",
+            "snippet": {
+                "publishedAt": "2022-09-13T00:10:23Z",
+                "channelId": "UCinjnmQEwCddOudyCC1v7qA",
+                "title": "Rapper PnB Rock shot while eating at South L.A. Roscoe’s Chicken and Waffles: TMZ",
+                "description": "Rapper PnB Rock was shot and wounded in a South L.A. Roscoe’s Chicken and Waffles Monday afternoon, according to TMZ.\n\nGil Leyvas reports for the KTLA 5 News at 5 on Sept. 12, 2022.\n\nDetails: https://ktla.com/news/local-news/rapper-pnb-rock-shot-while-eating-at-south-la-roscoes-chicken-and-waffles-tmz/\n\n» Subscribe to KTLA: https://www.youtube.com/user/ktla?sub_confirmation=1\n\nKTLA has been keeping Southern Californians informed since 1947. Here you will find clips from the KTLA 5 Morning News and other daily newscasts. Subscribe to our channel for breaking news and live video from Southern California, including police pursuits, wildfires and much more.\n\n| Connect with KTLA online |\n\nOur website: www.ktla.com\nFollow KTLA on Twitter: www.twitter.com/ktla\nFind KTLA on Facebook: www.facebook.com/ktla5\nFollow KTLA on Instagram: www.instagram.com/ktla5news",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FLg-TIXNpAY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FLg-TIXNpAY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FLg-TIXNpAY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KTLA 5",
+                "tags": [
+                    "video",
+                    "news",
+                    "5live"
+                ],
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rapper PnB Rock shot while eating at South L.A. Roscoe’s Chicken and Waffles: TMZ",
+                    "description": "Rapper PnB Rock was shot and wounded in a South L.A. Roscoe’s Chicken and Waffles Monday afternoon, according to TMZ.\n\nGil Leyvas reports for the KTLA 5 News at 5 on Sept. 12, 2022.\n\nDetails: https://ktla.com/news/local-news/rapper-pnb-rock-shot-while-eating-at-south-la-roscoes-chicken-and-waffles-tmz/\n\n» Subscribe to KTLA: https://www.youtube.com/user/ktla?sub_confirmation=1\n\nKTLA has been keeping Southern Californians informed since 1947. Here you will find clips from the KTLA 5 Morning News and other daily newscasts. Subscribe to our channel for breaking news and live video from Southern California, including police pursuits, wildfires and much more.\n\n| Connect with KTLA online |\n\nOur website: www.ktla.com\nFollow KTLA on Twitter: www.twitter.com/ktla\nFind KTLA on Facebook: www.facebook.com/ktla5\nFollow KTLA on Instagram: www.instagram.com/ktla5news"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1ZMG3yGnBJEUXld_ppfocyYBZw0",
+            "id": "nQXm_UfWAwo",
+            "snippet": {
+                "publishedAt": "2022-09-13T19:15:01Z",
+                "channelId": "UCudx6plmpbs5WtWvsvu-EdQ",
+                "title": "Zelda: Tears of the Kingdom Trailer Analysis",
+                "description": "A breakdown of the new trailer for Zelda: Tears of the Kingdom, Breath of the Wild's upcoming sequel!\n\n►Follow me on Twitter! http://www.twitter.com/Zeltik\nor Instagram: @zeltikinsta\n► Music in this video:\nNintendo\n\nGameplay footage used:\n\nNintendoBlackCrisis Dragon Footage: https://www.youtube.com/watch?v=YGXZ7fb1rhk\n\n► Discord Link: https://discord.gg/zeltik\n► Intro music by: http://bit.ly/RuvenWegner\n► Outro music by Clangon: https://youtu.be/81eq8o6sMyo\n\n#Zelda #Nintendo #TearsoftheKingdom",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nQXm_UfWAwo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nQXm_UfWAwo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nQXm_UfWAwo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nQXm_UfWAwo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nQXm_UfWAwo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Zeltik",
+                "tags": [
+                    "Zelda"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "Zelda: Tears of the Kingdom Trailer Analysis",
+                    "description": "A breakdown of the new trailer for Zelda: Tears of the Kingdom, Breath of the Wild's upcoming sequel!\n\n►Follow me on Twitter! http://www.twitter.com/Zeltik\nor Instagram: @zeltikinsta\n► Music in this video:\nNintendo\n\nGameplay footage used:\n\nNintendoBlackCrisis Dragon Footage: https://www.youtube.com/watch?v=YGXZ7fb1rhk\n\n► Discord Link: https://discord.gg/zeltik\n► Intro music by: http://bit.ly/RuvenWegner\n► Outro music by Clangon: https://youtu.be/81eq8o6sMyo\n\n#Zelda #Nintendo #TearsoftheKingdom"
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "N0qXTHaapWKVZrhH6qENaCwWQT0",
+            "id": "cRw8IFLS1Fs",
+            "snippet": {
+                "publishedAt": "2022-09-13T01:28:11Z",
+                "channelId": "UClBKH8yZRcM4AsRjDVEdjMg",
+                "title": "Supporting Actress in a Comedy Series: 74th Emmy Awards",
+                "description": "Sheryl Lee Ralph accepts the Emmy for Supporting Actress in a Comedy Series for Abbott Elementary at the 74th Emmy Awards.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cRw8IFLS1Fs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cRw8IFLS1Fs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cRw8IFLS1Fs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Television Academy",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Supporting Actress in a Comedy Series: 74th Emmy Awards",
+                    "description": "Sheryl Lee Ralph accepts the Emmy for Supporting Actress in a Comedy Series for Abbott Elementary at the 74th Emmy Awards."
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Uwf7CWoGm5i_KocMfhbt7Xmnz_U",
+            "id": "t7HT83wkVss",
+            "snippet": {
+                "publishedAt": "2022-09-13T13:00:32Z",
+                "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+                "title": "BABYLON | Official Trailer (Uncensored) – Brad Pitt, Margot Robbie, Diego Calva",
+                "description": "Always make a scene. Watch the new trailer for BABYLON starring Brad Pitt, Margot Robbie and Diego Calva. In select theatres December 25. Everywhere January 6. #BabylonMovie\n\nFrom Damien Chazelle, Babylon is an original epic set in 1920s Los Angeles led by Brad Pitt, Margot Robbie and Diego Calva, with an ensemble cast including Jovan Adepo, Li Jun Li and Jean Smart. A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood. \n\nFeaturing the original music track “Voodoo Mama” from Academy Award-winning composer Justin Hurwitz.\n\nOfficial Site: https://www.babylonmovie.com\nInstagram: https://www.instagram.com/babylonmovie\nTwitter: https://twitter.com/babylonmovie\nFacebook: https://www.facebook.com/BabylonMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\n \nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t7HT83wkVss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t7HT83wkVss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t7HT83wkVss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t7HT83wkVss/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t7HT83wkVss/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Paramount Pictures",
+                "tags": [
+                    "babylon",
+                    "babylon trailer",
+                    "new babylon trailer",
+                    "babylon movie",
+                    "babylon damien chazelle",
+                    "damien chazelle",
+                    "brad pitt",
+                    "margot robbie",
+                    "diego calva",
+                    "li jun li",
+                    "jean smart",
+                    "jovan adepo",
+                    "tobey maguire",
+                    "olivia wilde",
+                    "flea",
+                    "lukas haas",
+                    "olivia hamilton",
+                    "samara weaving",
+                    "katherine waterston",
+                    "pj byrne",
+                    "eric roberts"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "BABYLON | Official Trailer (Uncensored) – Brad Pitt, Margot Robbie, Diego Calva",
+                    "description": "Always make a scene. Watch the new trailer for BABYLON starring Brad Pitt, Margot Robbie and Diego Calva. In select theatres December 25. Everywhere January 6. #BabylonMovie\n\nFrom Damien Chazelle, Babylon is an original epic set in 1920s Los Angeles led by Brad Pitt, Margot Robbie and Diego Calva, with an ensemble cast including Jovan Adepo, Li Jun Li and Jean Smart. A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood. \n\nFeaturing the original music track “Voodoo Mama” from Academy Award-winning composer Justin Hurwitz.\n\nOfficial Site: https://www.babylonmovie.com\nInstagram: https://www.instagram.com/babylonmovie\nTwitter: https://twitter.com/babylonmovie\nFacebook: https://www.facebook.com/BabylonMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\n \nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "bIj9CA9Jsg31vwo_sUvecBCDqZM",
+            "id": "WfzqlO8kxTA",
+            "snippet": {
+                "publishedAt": "2022-09-13T18:00:17Z",
+                "channelId": "UCY6Ij8zOds0WJEeqCLOnqOQ",
+                "title": "that new Disney Pinocchio remake is terrifying...",
+                "description": "Visit http://www.audible.com/alexmeyers or text alexmeyers to 500-500. Let Audible help you discover new ways to laugh, be inspired, or be entertained.  New members can try it free for 30 days\n\n★☆★ Help Me Get to 4,000,000 Subscribers! http://bit.ly/1Iqsdaq\n\nCheck out my Podcast\nhttps://www.youtube.com/channel/UCBgm0clEVtGjgUKGHbMrqIw/\n\n★☆★Buy some Merch:  alexmeyers.teemill.com\n\n★☆★PLEASE SHARE THIS VIDEO!!\n\n★☆★PREVIOUS VIDEOS:\n\nHocus Pocus\nhttps://youtu.be/DA0d32pSTC8\n\nZOMBIES 3\nhttps://youtu.be/60ZfBQiqWV0\n\nSPY KIDS 2\nhttps://youtu.be/Mw9BvXwObPI\n\nThank you so much for 3,000,000 subscribers.  If you like what you see, please share these videos with your friends to show support!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WfzqlO8kxTA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WfzqlO8kxTA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WfzqlO8kxTA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WfzqlO8kxTA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WfzqlO8kxTA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Alex Meyers",
+                "tags": [
+                    "alex meyers",
+                    "alex myers",
+                    "alex mayers",
+                    "pinocchio",
+                    "pinocchio 2022",
+                    "disney pinocchio"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "that new Disney Pinocchio remake is terrifying...",
+                    "description": "Visit http://www.audible.com/alexmeyers or text alexmeyers to 500-500. Let Audible help you discover new ways to laugh, be inspired, or be entertained.  New members can try it free for 30 days\n\n★☆★ Help Me Get to 4,000,000 Subscribers! http://bit.ly/1Iqsdaq\n\nCheck out my Podcast\nhttps://www.youtube.com/channel/UCBgm0clEVtGjgUKGHbMrqIw/\n\n★☆★Buy some Merch:  alexmeyers.teemill.com\n\n★☆★PLEASE SHARE THIS VIDEO!!\n\n★☆★PREVIOUS VIDEOS:\n\nHocus Pocus\nhttps://youtu.be/DA0d32pSTC8\n\nZOMBIES 3\nhttps://youtu.be/60ZfBQiqWV0\n\nSPY KIDS 2\nhttps://youtu.be/Mw9BvXwObPI\n\nThank you so much for 3,000,000 subscribers.  If you like what you see, please share these videos with your friends to show support!"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OlXRjAHrhqFR269xz5S9aQqTE-0",
+            "id": "DbhuZFVqAqc",
+            "snippet": {
+                "publishedAt": "2022-09-12T19:00:12Z",
+                "channelId": "UCtNdVINwfYFTQEEZgMiQ8FA",
+                "title": "The Family Annihilator Anthony Todt  | Mystery & Makeup - Bailey Sarian",
+                "description": "For 16 free meals with HelloFresh across 7 boxes AND 3 free gifts, use code BAILEYSARIAN16 at https://bit.ly/3iHrsBw!\n\n______________\n\nHi friends, happy Monday! \n\nAlso, let me know who you want me to talk about next week. Hope you have a great rest of your week and I'll be seeing you very soon\nxo\nBailey Sarian\n\n________\n\n\n:  :    F O L L O W    M E     :  :\n\nDiscord : http://discord.gg/baileysarian\nTik Tok : https://bit.ly/3e3jL9v \nInstagram : http://bit.ly/2nbO4PR\nFacebook : http://bit.ly/2mdZtK6\nTwitter : http://bit.ly/2yT4BLV\nPinterest : http://bit.ly/2mVpXnY\nYoutube : http://bit.ly/1HGw3Og\nSnapchat : https://bit.ly/3cC0V9d  \n\n\nRECOMMEND A STORY HERE : cases4bailey@gmail.com \n\nBusiness Related Emails : Baileysarianteam@wmeagency.com\n\n_________\n\n:  :    P R O D U C T S     U S E D    :  :\n\nFACE\nDanessa Myricks: Blurring Balm Powder #3\nhttps://shop-links.co/ch1YFjvbZZF\n\nPat McGrath Skin Fetish Foundation #10\nhttps://shop-links.co/ch1YGiC81VV\n\nKVD Good Apple Lightweight Full-Coverage Concealer - Medium 149\nhttps://shop-links.co/ch1YHB1nVO0\n\nNARS Radiant Creamy Concealer - Macadamia & Creme Brulee\nhttps://shop-links.co/ch1YIt8QKUt\n\nLA Girl Soft Matte Cream Blush - Rosebud\nhttps://shop-links.co/ch1YIRyfsFp\n\nMOB Beauty Cream Clay Bronzer - M77\nhttps://shop-links.co/ch1YJLX7aKD\n\nBenefit Dandelion Baby-Pink Brightening Blush\nhttps://shop-links.co/ch1YKQxencY\n\nHourglass Ambient Metallic Strobe - Pure Strobe Light\nDiscontinued\n\nGivenchy Prisme Libre Enhanced Radiance Loose Powder - #2 Satin Blanc (under eye setting powder)\nhttps://shop-links.co/ch2kGtmZubM\n\nMAC Studio Fix Powder Plus Foundation - C3\nhttps://shop-links.co/ch2kHABSZVD\n\nLA Girl Matte Bronzer - GBL413 Back to the Beach\nhttps://shop-links.co/ch2kI0HtboW\n\n\nBROWS\nAbout - Face Brow Artist Longwear Eyebrow Pencil - 07 Black Brown\nhttps://shop-links.co/ch2kN3BH8j7\n\n\nEYES\nAbout - Face Matte Fluid Eye Paint - Vertigo Flowers\nhttps://shop-links.co/ch2kKkhPOPh\n\nMelt Cosmetics Four Twenty Palette\nhttps://shop-links.co/ch2kKOo26Vw\n\nAbout - Face Line Artist Longwear Gel Liner - Electric Slide\nhttps://shop-links.co/ch2kLvtfjM4\n\nMake Up For Ever Aqua Smoky Lash Mascara\nhttps://shop-links.co/ch2kMlAN9gR\n\nArdell Studio Effects Demi Wispies\nhttps://shop-links.co/ch2kMUN3LWQ\n\n\nLIPS\nColourPOP Lippie Pencil - CTRL\nhttps://shop-links.co/ch2kOPJaTQH\n\nSephora Cream Lip Stain Liquid Lipstick - 32 Nude Blush\nhttps://shop-links.co/ch2kPSQH3tw\n\n\n♡ \n*These links are affiliate links. Which means, if you click on the link and purchase a product, a small percentage comes back to me. It helps me keep on keepin on with my videos, and I appreciate you if you choose to support. If you don’t, that’s ok too.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DbhuZFVqAqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DbhuZFVqAqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DbhuZFVqAqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DbhuZFVqAqc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bailey Sarian",
+                "tags": [
+                    "Bailey sarian",
+                    "youtube bailey sarian",
+                    "bailey sarian youtube",
+                    "youtube bailey",
+                    "bailey",
+                    "sarian",
+                    "mystery makeup monday",
+                    "monday mystery makeup",
+                    "mystery makeup",
+                    "mystery makeup mondays",
+                    "makeup artist",
+                    "new makeup tutorial",
+                    "flawless makeup",
+                    "makeup and story time",
+                    "makeup story time",
+                    "story time and makeup",
+                    "story time",
+                    "grwm",
+                    "grwm and makeup",
+                    "get ready with me and makeup",
+                    "makeup grwm",
+                    "flawless foundation",
+                    "mystery monday",
+                    "mystery",
+                    "monday story time",
+                    "dark history",
+                    "history story",
+                    "hilarious"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Family Annihilator Anthony Todt  | Mystery & Makeup - Bailey Sarian",
+                    "description": "For 16 free meals with HelloFresh across 7 boxes AND 3 free gifts, use code BAILEYSARIAN16 at https://bit.ly/3iHrsBw!\n\n______________\n\nHi friends, happy Monday! \n\nAlso, let me know who you want me to talk about next week. Hope you have a great rest of your week and I'll be seeing you very soon\nxo\nBailey Sarian\n\n________\n\n\n:  :    F O L L O W    M E     :  :\n\nDiscord : http://discord.gg/baileysarian\nTik Tok : https://bit.ly/3e3jL9v \nInstagram : http://bit.ly/2nbO4PR\nFacebook : http://bit.ly/2mdZtK6\nTwitter : http://bit.ly/2yT4BLV\nPinterest : http://bit.ly/2mVpXnY\nYoutube : http://bit.ly/1HGw3Og\nSnapchat : https://bit.ly/3cC0V9d  \n\n\nRECOMMEND A STORY HERE : cases4bailey@gmail.com \n\nBusiness Related Emails : Baileysarianteam@wmeagency.com\n\n_________\n\n:  :    P R O D U C T S     U S E D    :  :\n\nFACE\nDanessa Myricks: Blurring Balm Powder #3\nhttps://shop-links.co/ch1YFjvbZZF\n\nPat McGrath Skin Fetish Foundation #10\nhttps://shop-links.co/ch1YGiC81VV\n\nKVD Good Apple Lightweight Full-Coverage Concealer - Medium 149\nhttps://shop-links.co/ch1YHB1nVO0\n\nNARS Radiant Creamy Concealer - Macadamia & Creme Brulee\nhttps://shop-links.co/ch1YIt8QKUt\n\nLA Girl Soft Matte Cream Blush - Rosebud\nhttps://shop-links.co/ch1YIRyfsFp\n\nMOB Beauty Cream Clay Bronzer - M77\nhttps://shop-links.co/ch1YJLX7aKD\n\nBenefit Dandelion Baby-Pink Brightening Blush\nhttps://shop-links.co/ch1YKQxencY\n\nHourglass Ambient Metallic Strobe - Pure Strobe Light\nDiscontinued\n\nGivenchy Prisme Libre Enhanced Radiance Loose Powder - #2 Satin Blanc (under eye setting powder)\nhttps://shop-links.co/ch2kGtmZubM\n\nMAC Studio Fix Powder Plus Foundation - C3\nhttps://shop-links.co/ch2kHABSZVD\n\nLA Girl Matte Bronzer - GBL413 Back to the Beach\nhttps://shop-links.co/ch2kI0HtboW\n\n\nBROWS\nAbout - Face Brow Artist Longwear Eyebrow Pencil - 07 Black Brown\nhttps://shop-links.co/ch2kN3BH8j7\n\n\nEYES\nAbout - Face Matte Fluid Eye Paint - Vertigo Flowers\nhttps://shop-links.co/ch2kKkhPOPh\n\nMelt Cosmetics Four Twenty Palette\nhttps://shop-links.co/ch2kKOo26Vw\n\nAbout - Face Line Artist Longwear Gel Liner - Electric Slide\nhttps://shop-links.co/ch2kLvtfjM4\n\nMake Up For Ever Aqua Smoky Lash Mascara\nhttps://shop-links.co/ch2kMlAN9gR\n\nArdell Studio Effects Demi Wispies\nhttps://shop-links.co/ch2kMUN3LWQ\n\n\nLIPS\nColourPOP Lippie Pencil - CTRL\nhttps://shop-links.co/ch2kOPJaTQH\n\nSephora Cream Lip Stain Liquid Lipstick - 32 Nude Blush\nhttps://shop-links.co/ch2kPSQH3tw\n\n\n♡ \n*These links are affiliate links. Which means, if you click on the link and purchase a product, a small percentage comes back to me. It helps me keep on keepin on with my videos, and I appreciate you if you choose to support. If you don’t, that’s ok too."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7-9oo77MakG_6xrNNlbeC_dmkt0",
+            "id": "qFYcwbu-H-s",
+            "snippet": {
+                "publishedAt": "2022-09-12T21:01:19Z",
+                "channelId": "UCUaT_39o1x6qWjz7K2pWcgw",
+                "title": "Unbelievable Places On Earth!",
+                "description": "I can't believe these places actually exist lol \n\nCHECK OUT THESE CHANNELS OR ELSE\n\nCUREPTOLICA\nhttps://www.youtube.com/watch?v=NqSJood6TPo\n\nRecanto Ecológico Rio da Prata\nhttps://www.youtube.com/watch?v=hpsugpjc3dE\n\nTerrence J Allison\nhttps://www.youtube.com/watch?v=wZt4jJEkhWM\n\nViralHog\nhttps://www.youtube.com/watch?v=DBNOCpCbD9s\n\nEpic Everyday Adventures\nhttps://www.youtube.com/watch?v=EmbjQsR9v7E\n\nTea Partiest\nhttps://www.youtube.com/watch?v=nO84UfJUSDc\n\nNas Daily\nhttps://www.youtube.com/watch?v=miIEOZBNU-M\n\nAmazing Planet\nhttps://www.youtube.com/watch?v=7X4OgK9mVcQ\n\nVoogie\nhttps://www.youtube.com/watch?v=og_1u8RFmuI\n\nMarc Volcano Szeglat\nhttps://www.youtube.com/watch?v=wsu8DPeer-o\nhttps://www.youtube.com/watch?v=qVVO1hwIfEY\n\nBBC Earth\nhttps://www.youtube.com/watch?v=UVko9jyAkQg\n\nUnofficial Net\nhttps://www.youtube.com/watch?v=LFBnmNpz_RI\n\nMark Angear\nhttps://www.youtube.com/watch?v=OlHPPkMpJkg\n\nMike Kuhl\nhttps://www.youtube.com/watch?v=scdo7Nb-s68\n\nOutside Chronicles\nhttps://www.youtube.com/watch?v=8M-3vvkwe3E\n\nPatrick Guide Barcelona\nhttps://www.youtube.com/watch?v=H-lUHzMFvSc\n\nTodopeniscola\nhttps://www.youtube.com/watch?v=63702aIpvyI\n\nNatural Disasters\nhttps://www.youtube.com/shorts/VNztmK8bARc\n\nExtinction Rebellion\nhttps://twitter.com/ExtinctionR/status/1423789470864662532\n\nVisit Earth\nhttps://www.youtube.com/watch?v=8fLm35I6Z2g\n\nBloomberg Markets and Finance\nhttps://www.youtube.com/watch?v=6oNPE3yPZ3I\n\nshaji thomas\nhttps://www.youtube.com/watch?v=-KuJYTusHTM\n\nPraveenMohan\nhttps://www.youtube.com/watch?v=M2lAqYZ6N5o\n\nFree Documentary - Shorts\nhttps://www.youtube.com/watch?v=crrOWVRV72c\n\nRM Videos / JUKIN\nhttps://www.youtube.com/watch?v=ay7fMuiGxD8\n\nBusiness Insider\nhttps://www.youtube.com/watch?v=mYsOFXnfsCU\n\nTokyo Lens\nhttps://www.youtube.com/watch?v=vxiOdrVreSQ\n\nNew Merch - https://shopmrbeast.com\n----------------------------------------------------------------\nSubmit your videos here: https://www.beastreactssubmissions.com/\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Instagram - https://www.instagram.com/beastreacts\n\n--------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qFYcwbu-H-s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qFYcwbu-H-s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qFYcwbu-H-s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qFYcwbu-H-s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qFYcwbu-H-s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Beast Reacts",
+                "tags": [
+                    "life hacks",
+                    "crafts",
+                    "slime",
+                    "do it yourself",
+                    "diy",
+                    "lifehacks",
+                    "dily projects",
+                    "useful things",
+                    "how to",
+                    "experiment",
+                    "experiments",
+                    "diy activities",
+                    "handcraft",
+                    "prank",
+                    "funny",
+                    "challenge",
+                    "pranks",
+                    "secret",
+                    "diy slime",
+                    "laugh",
+                    "new",
+                    "skills",
+                    "tricks",
+                    "tips",
+                    "fun"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Unbelievable Places On Earth!",
+                    "description": "I can't believe these places actually exist lol \n\nCHECK OUT THESE CHANNELS OR ELSE\n\nCUREPTOLICA\nhttps://www.youtube.com/watch?v=NqSJood6TPo\n\nRecanto Ecológico Rio da Prata\nhttps://www.youtube.com/watch?v=hpsugpjc3dE\n\nTerrence J Allison\nhttps://www.youtube.com/watch?v=wZt4jJEkhWM\n\nViralHog\nhttps://www.youtube.com/watch?v=DBNOCpCbD9s\n\nEpic Everyday Adventures\nhttps://www.youtube.com/watch?v=EmbjQsR9v7E\n\nTea Partiest\nhttps://www.youtube.com/watch?v=nO84UfJUSDc\n\nNas Daily\nhttps://www.youtube.com/watch?v=miIEOZBNU-M\n\nAmazing Planet\nhttps://www.youtube.com/watch?v=7X4OgK9mVcQ\n\nVoogie\nhttps://www.youtube.com/watch?v=og_1u8RFmuI\n\nMarc Volcano Szeglat\nhttps://www.youtube.com/watch?v=wsu8DPeer-o\nhttps://www.youtube.com/watch?v=qVVO1hwIfEY\n\nBBC Earth\nhttps://www.youtube.com/watch?v=UVko9jyAkQg\n\nUnofficial Net\nhttps://www.youtube.com/watch?v=LFBnmNpz_RI\n\nMark Angear\nhttps://www.youtube.com/watch?v=OlHPPkMpJkg\n\nMike Kuhl\nhttps://www.youtube.com/watch?v=scdo7Nb-s68\n\nOutside Chronicles\nhttps://www.youtube.com/watch?v=8M-3vvkwe3E\n\nPatrick Guide Barcelona\nhttps://www.youtube.com/watch?v=H-lUHzMFvSc\n\nTodopeniscola\nhttps://www.youtube.com/watch?v=63702aIpvyI\n\nNatural Disasters\nhttps://www.youtube.com/shorts/VNztmK8bARc\n\nExtinction Rebellion\nhttps://twitter.com/ExtinctionR/status/1423789470864662532\n\nVisit Earth\nhttps://www.youtube.com/watch?v=8fLm35I6Z2g\n\nBloomberg Markets and Finance\nhttps://www.youtube.com/watch?v=6oNPE3yPZ3I\n\nshaji thomas\nhttps://www.youtube.com/watch?v=-KuJYTusHTM\n\nPraveenMohan\nhttps://www.youtube.com/watch?v=M2lAqYZ6N5o\n\nFree Documentary - Shorts\nhttps://www.youtube.com/watch?v=crrOWVRV72c\n\nRM Videos / JUKIN\nhttps://www.youtube.com/watch?v=ay7fMuiGxD8\n\nBusiness Insider\nhttps://www.youtube.com/watch?v=mYsOFXnfsCU\n\nTokyo Lens\nhttps://www.youtube.com/watch?v=vxiOdrVreSQ\n\nNew Merch - https://shopmrbeast.com\n----------------------------------------------------------------\nSubmit your videos here: https://www.beastreactssubmissions.com/\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Instagram - https://www.instagram.com/beastreacts\n\n--------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ytdBdrjUSEkLCwvF8YhlHO6iLDw",
+            "id": "pIoDLfv2XvE",
+            "snippet": {
+                "publishedAt": "2022-09-13T16:00:33Z",
+                "channelId": "UC9mqQoDko9Si0jFc0tFpP7Q",
+                "title": "Big Scarr - Havin Fun [Official Music VIdeo]",
+                "description": "Big Scarr - Havin Fun\nDownload/Stream: https://bigscarr.lnk.to/HavinFun\n\nSubscribe for more official content from Big Scarr: https://bigscarr.lnk.to/Youtube\n\nGet into Big Scarr 💰\nInstagram: https://bigscarr.lnk.to/Instagram\nFacebook: https://bigscarr.lnk.to/Facebook\nTwitter: https://bigscarr.lnk.to/Twitter\nSpotify: https://bigscarr.lnk.to/Spotify\nApple: https://bigscarr.lnk.to/AppleMusic\nSoundcloud: https://bigscarr.lnk.to/Soundcloud\n\nThe official YouTube channel of The New 1017 artist Big Scarr. Subscribe for the latest music videos, performances, and more.\n\n#BigScarr #TheNew1017 #AtlanticRecords",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pIoDLfv2XvE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pIoDLfv2XvE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pIoDLfv2XvE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Big Scarr",
+                "tags": [
+                    "Big Scarr",
+                    "Memphis",
+                    "1017",
+                    "Pooh Shiesty",
+                    "Gucci Mane",
+                    "Trap",
+                    "Southern Rap",
+                    "The New 1017",
+                    "1017 Records",
+                    "TN",
+                    "Scarr",
+                    "Big Grim Reaper",
+                    "big",
+                    "scarr",
+                    "havin fun",
+                    "having fun",
+                    "big scar"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Big Scarr - Havin Fun [Official Music VIdeo]",
+                    "description": "Big Scarr - Havin Fun\nDownload/Stream: https://bigscarr.lnk.to/HavinFun\n\nSubscribe for more official content from Big Scarr: https://bigscarr.lnk.to/Youtube\n\nGet into Big Scarr 💰\nInstagram: https://bigscarr.lnk.to/Instagram\nFacebook: https://bigscarr.lnk.to/Facebook\nTwitter: https://bigscarr.lnk.to/Twitter\nSpotify: https://bigscarr.lnk.to/Spotify\nApple: https://bigscarr.lnk.to/AppleMusic\nSoundcloud: https://bigscarr.lnk.to/Soundcloud\n\nThe official YouTube channel of The New 1017 artist Big Scarr. Subscribe for the latest music videos, performances, and more.\n\n#BigScarr #TheNew1017 #AtlanticRecords"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "frI_YDd9ft0fjJJL_FfP3Yl0WNA",
+            "id": "wkiCAAyhkE8",
+            "snippet": {
+                "publishedAt": "2022-09-13T17:00:36Z",
+                "channelId": "UCOpcACMWblDls9Z6GERVi1A",
+                "title": "Honest Trailers | Thor: Love and Thunder",
+                "description": "►►Subscribe to ScreenJunkies!► https://fandom.link/SJSubscribe\n\n►►Check out the Fandom Twitch Channel!►  http://twitch.tv/fandom\n\n►►Watch the Honest Trailers Commentary with the Writers!► https://youtu.be/mEdCUZZKEac\n\nHonest Trailers | Thor: Love and Thunder\nVoice Narration: Jon Bailey aka Epic Voice Guy\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert, Danielle Radford, Lon Harris & Drew Grant\nProduced by: Spencer Gilbert\nAssociate Producer: Ryan O'Toole\nEdited by: Kevin Williamsen\nPost-Production Supervisor: Emin Bassavand\nPost-Production Coordinator: Mikołaj Kossakowski\nAssistant Editor: Rebecca Castaneda\nDirector of Video Production: Max Dionne\n#HonestTrailers",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wkiCAAyhkE8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wkiCAAyhkE8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wkiCAAyhkE8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wkiCAAyhkE8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wkiCAAyhkE8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Screen Junkies",
+                "tags": [
+                    "screenjunkies",
+                    "screen junkies",
+                    "honest trailers",
+                    "honest trailer",
+                    "thor",
+                    "thor 4",
+                    "thor love and thunder",
+                    "thor: love and thunder",
+                    "jane foster",
+                    "mcu",
+                    "thor trailer",
+                    "thor love and thunder trailer",
+                    "thor 4 trailer",
+                    "thor: love and thunder trailer",
+                    "marvel",
+                    "marvel cinematic universe",
+                    "phase 4",
+                    "marvel trailer",
+                    "honest trailers thor",
+                    "honest trailers thor 4",
+                    "honest trailers thor love and thunder",
+                    "honest trailers thor: love and thunder",
+                    "honest trailer thor",
+                    "honest trailer thor love and thunder"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Honest Trailers | Thor: Love and Thunder",
+                    "description": "►►Subscribe to ScreenJunkies!► https://fandom.link/SJSubscribe\n\n►►Check out the Fandom Twitch Channel!►  http://twitch.tv/fandom\n\n►►Watch the Honest Trailers Commentary with the Writers!► https://youtu.be/mEdCUZZKEac\n\nHonest Trailers | Thor: Love and Thunder\nVoice Narration: Jon Bailey aka Epic Voice Guy\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert, Danielle Radford, Lon Harris & Drew Grant\nProduced by: Spencer Gilbert\nAssociate Producer: Ryan O'Toole\nEdited by: Kevin Williamsen\nPost-Production Supervisor: Emin Bassavand\nPost-Production Coordinator: Mikołaj Kossakowski\nAssistant Editor: Rebecca Castaneda\nDirector of Video Production: Max Dionne\n#HonestTrailers"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_fukJgK00lO3AxP7BQh3wrBCx7E",
+            "id": "07FdDRbdurg",
+            "snippet": {
+                "publishedAt": "2022-09-13T22:25:06Z",
+                "channelId": "UC_ntXHv-XdKCD7CPynVvnQw",
+                "title": "TEKKEN 8 – Reveal Trailer",
+                "description": "It's time for a next-gen grudge match! 🥊\nTake the fight to a new level with #TEKKEN8\n\nFollow TEKKEN: \nInstagram: https://www.instagram.com/tekken\nFacebook: https://www.facebook.com/TekkenAmericas/\nTwitter: https://twitter.com/TEKKEN\nTwitch: http://www.twitch.tv/bandainamcous",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/07FdDRbdurg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/07FdDRbdurg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/07FdDRbdurg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/07FdDRbdurg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/07FdDRbdurg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bandai Namco Entertainment America",
+                "tags": [
+                    "Bandai Namco",
+                    "Bandai Namco Entertainment",
+                    "Video",
+                    "Games",
+                    "video games",
+                    "namco bandai",
+                    "United States",
+                    "PS5",
+                    "PS4",
+                    "Xbox Series X"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "TEKKEN 8 – Reveal Trailer",
+                    "description": "It's time for a next-gen grudge match! 🥊\nTake the fight to a new level with #TEKKEN8\n\nFollow TEKKEN: \nInstagram: https://www.instagram.com/tekken\nFacebook: https://www.facebook.com/TekkenAmericas/\nTwitter: https://twitter.com/TEKKEN\nTwitch: http://www.twitch.tv/bandainamcous"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TIyxTVRSAN8aq9LarFW_F1nTYJc",
+            "id": "lg2cdA2BglE",
+            "snippet": {
+                "publishedAt": "2022-09-12T21:15:02Z",
+                "channelId": "UCyps-v4WNjWDnYRKmZ4BUGw",
+                "title": "I Trapped 100 Strangers In Complete Darkness",
+                "description": "Follow me on Instagram!\nINSTAGRAM ▶️ https://urlgeni.us/instagram/jBHg\n\nFOLLOW MY FRIENDS:\nMack: https://www.instagram.com/mack\nTyler: https://www.youtube.com/c/tylerblanchard\n\nOuttro song ▶️ Axel Thesleff - Bad Karma\nYouTube: https://bit.ly/3k6Uadj\nSpotify: https://spoti.fi/3odq3TN\nInstagram: https://bit.ly/3lsccaz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lg2cdA2BglE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lg2cdA2BglE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lg2cdA2BglE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lg2cdA2BglE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lg2cdA2BglE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Airrack",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "I Trapped 100 Strangers In Complete Darkness",
+                    "description": "Follow me on Instagram!\nINSTAGRAM ▶️ https://urlgeni.us/instagram/jBHg\n\nFOLLOW MY FRIENDS:\nMack: https://www.instagram.com/mack\nTyler: https://www.youtube.com/c/tylerblanchard\n\nOuttro song ▶️ Axel Thesleff - Bad Karma\nYouTube: https://bit.ly/3k6Uadj\nSpotify: https://spoti.fi/3odq3TN\nInstagram: https://bit.ly/3lsccaz"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "KBX7oql6FusWNgTIJeHMqMj-mSo",
+            "id": "0a3_p8U_20g",
+            "snippet": {
+                "publishedAt": "2022-09-13T17:00:01Z",
+                "channelId": "UCzTKskwIc_-a0cGvCXA848Q",
+                "title": "WATCH OUR WEDDING DAY! 💍 Showing You EVERYTHING!",
+                "description": "Welcome to Wedding Tutorials! In today’s video, you’re cordially invited to my wedding day. I’m officially Dylan’s wife, and I’m so excited to show you EVERYTHING that happened! Grab the tissues and a snack, and let’s celebrate love! I hope you enjoy and don’t forget to like and subscribe!\n\n🔥 PREVIOUS VIDEO • Time To Spill The Juice… → https://youtu.be/ir3VORiZH9E 🔥\n\n🧡 YOU CAN ORDER NIMYA PRODUCTS HERE  → https://www.nimya.com/ 💙\n\nMake sure you subscribe to my channel and hit the notification bell, so you don’t miss any of my new videos → http://bit.ly/SubscribeNikkieTutorials\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\nAll Products Used by Maybelline:\n\nSuperStay Foundation 110\nSuperStay Concealer 10\nFit Me Loose Powder 05\nBrow Ultra Slim in the shade “Blonde”\nMaster Chrome Highlighter 250\nCity Bronzer 100\nFit Me blush 25 Pink\nShadow Blocks “Nudes of New York\nHyper Easy Black Liner \nSky High Waterproof Mascara\nColor Sensational Ultimatte “More buff” + “More Ruby”\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\nFilming: The Dreamers https://bit.ly/3L8EsNX\nWedding Planners: Nanoon Agency https://bit.ly/3eO5C0w\nEditing by Roy Etman: https://bit.ly/3HvqRhw\nPhotos by Joy Hansson: https://bit.ly/3RHGuH9\nHair by Mandy Nijland: https://bit.ly/3L86IAg\nStyling by Marja Bennenbroek: https://bit.ly/3L9jNZY\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\n▷ LET’S BECOME FRIENDS!!\nTIKTOK ‣ https://www.tiktok.com/@nikkietutorials\nINSTAGRAM ‣ https://instagram.com/nikkietutorials/ \nTWITTER ‣ http://www.twitter.com/Nikkietutorials\nSNAPCHAT ‣ https://www.snapchat.com/add/nikkietutorials\n\n▷ OTHER VIDEOS YOU CAN CHECK OUT…\n👑 THE POWER OF MAKEUP ► http://bit.ly/2scYIrE\n\n🎤 POWER OF MAKEUP: Adele! ► https://bit.ly/3oRz2NU\n\n💻 Doing LADY GAGA’S Makeup! ► http://bit.ly/2M0moIy\n\n🎀 Doing My FIANCE’S Makeup! ► https://bit.ly/3bsgHxu\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\nDisclaimer ‣ This video is sponsored by Maybelline. All thoughts mentioned are my own. No affiliate links are used. Honesty is key on my channel. Thank you for always supporting me!\n\nʕ•ᴥ•ʔ, I love you.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0a3_p8U_20g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0a3_p8U_20g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0a3_p8U_20g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NikkieTutorials",
+                "tags": [
+                    "nikkietutorials wedding",
+                    "wedding",
+                    "wedding dress",
+                    "nikkie wedding",
+                    "nikkie wedding dress",
+                    "story time",
+                    "wedding story time",
+                    "nikkietutorials",
+                    "nikkie tutorials",
+                    "nikkitutorials",
+                    "nikki tutorials",
+                    "davina michelle",
+                    "viktor and rolf",
+                    "wedding dress try on",
+                    "drama",
+                    "fail",
+                    "epic fail",
+                    "love",
+                    "love story",
+                    "wedding day",
+                    "married",
+                    "dylan",
+                    "husband",
+                    "partner",
+                    "nikkie dylan",
+                    "nimya",
+                    "wedding makeup",
+                    "bridal",
+                    "bridal makeup",
+                    "makeup",
+                    "makeup tutorial",
+                    "tutorial",
+                    "how to",
+                    "how to apply"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "WATCH OUR WEDDING DAY! 💍 Showing You EVERYTHING!",
+                    "description": "Welcome to Wedding Tutorials! In today’s video, you’re cordially invited to my wedding day. I’m officially Dylan’s wife, and I’m so excited to show you EVERYTHING that happened! Grab the tissues and a snack, and let’s celebrate love! I hope you enjoy and don’t forget to like and subscribe!\n\n🔥 PREVIOUS VIDEO • Time To Spill The Juice… → https://youtu.be/ir3VORiZH9E 🔥\n\n🧡 YOU CAN ORDER NIMYA PRODUCTS HERE  → https://www.nimya.com/ 💙\n\nMake sure you subscribe to my channel and hit the notification bell, so you don’t miss any of my new videos → http://bit.ly/SubscribeNikkieTutorials\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\nAll Products Used by Maybelline:\n\nSuperStay Foundation 110\nSuperStay Concealer 10\nFit Me Loose Powder 05\nBrow Ultra Slim in the shade “Blonde”\nMaster Chrome Highlighter 250\nCity Bronzer 100\nFit Me blush 25 Pink\nShadow Blocks “Nudes of New York\nHyper Easy Black Liner \nSky High Waterproof Mascara\nColor Sensational Ultimatte “More buff” + “More Ruby”\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\nFilming: The Dreamers https://bit.ly/3L8EsNX\nWedding Planners: Nanoon Agency https://bit.ly/3eO5C0w\nEditing by Roy Etman: https://bit.ly/3HvqRhw\nPhotos by Joy Hansson: https://bit.ly/3RHGuH9\nHair by Mandy Nijland: https://bit.ly/3L86IAg\nStyling by Marja Bennenbroek: https://bit.ly/3L9jNZY\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\n▷ LET’S BECOME FRIENDS!!\nTIKTOK ‣ https://www.tiktok.com/@nikkietutorials\nINSTAGRAM ‣ https://instagram.com/nikkietutorials/ \nTWITTER ‣ http://www.twitter.com/Nikkietutorials\nSNAPCHAT ‣ https://www.snapchat.com/add/nikkietutorials\n\n▷ OTHER VIDEOS YOU CAN CHECK OUT…\n👑 THE POWER OF MAKEUP ► http://bit.ly/2scYIrE\n\n🎤 POWER OF MAKEUP: Adele! ► https://bit.ly/3oRz2NU\n\n💻 Doing LADY GAGA’S Makeup! ► http://bit.ly/2M0moIy\n\n🎀 Doing My FIANCE’S Makeup! ► https://bit.ly/3bsgHxu\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\nDisclaimer ‣ This video is sponsored by Maybelline. All thoughts mentioned are my own. No affiliate links are used. Honesty is key on my channel. Thank you for always supporting me!\n\nʕ•ᴥ•ʔ, I love you."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "45M50uafJartDysbKP7LVNjgTZI",
+            "id": "tDDDxgl86kc",
+            "snippet": {
+                "publishedAt": "2022-09-13T23:39:16Z",
+                "channelId": "UCARs4nia9MFuhdxBkWU5UjA",
+                "title": "New God of War Ragnarök Trailer Reaction",
+                "description": "So I'm gonna be busy for a couple of days \n\n----------------------------------MUSIC------------------------------------\nIntro and outro music by Max Jerry \nWebsite: https://tinyurl.com/bdcv2948 \nInstagram: https://www.instagram.com/maxjerryy/\n\n-------------------------------ANIMATION--------------------------\nIntro and Outro Animation by Danilo Rocha\nEmail: danilogottr@gmail.com\nInstagram: https://www.instagram.com/kratosmemories/\n\n-----------------------------CHANNEL ART--------------------------------\nArtist: Haider Naqashy https://www.instagram.com/haidernaqashy/\n\n------------------------- ABOUT MY CHANNEL ------------------------- \nProviding the video game world with the very best theories, livestreams, playthroughs, lore videos, and gaming content since 2014! Although mostly geared towards God of War content, I’m committed to delivering the latest information on interests surrounding gaming entertainment. Gaming is my absolute passion and with my wide variety of content, you are sure to find something that keeps you watching.\nWhether you are a seasoned, die-hard God of War fan or just a casual player, you can expect to learn something that you hadn’t known before when subscribing to my channel!  \n\n\n------------------------- SOCIAL MEDIA ------------------------- \nTwitter: https://twitter.com/KaptainKuba\nInstagram: https://www.instagram.com/kaptain_kuba\nMy Second Youtube Channel: https://www.youtube.com/c/KubasGamingBunker\n\n\n------------------- SUPPORT THE CHANNEL -------------------\nBecome a Member: www.youtube.com/c/KaptainKuba/join\nMy Merch Store: https://kaptain-kubas-store.creator-spring.com\nDonations: https://paypal.me/KaptainKuba?locale.x=en_US\nGet 10% off your order using KAPTEESKUBA or click this link: https://intotheam.com/KAPTEESKUBA\n\n\n------------------- FOR BUSINESS INQUIRES ONLY -------------------\nI am available for collaborations, sponsorships, interviews, and more! If you are interested in contacting me for a business opportunity, please send an email to: KaptainKubaBusiness@gmail.com\n\n--------------------------------------------------------------------------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tDDDxgl86kc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tDDDxgl86kc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tDDDxgl86kc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tDDDxgl86kc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tDDDxgl86kc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kaptain Kuba",
+                "tags": [
+                    "God of War Ragnarök",
+                    "New Trailer",
+                    "Reaction",
+                    "Kaptain Kuba",
+                    "God of War Channel",
+                    "GOW Channel",
+                    "Tyr",
+                    "Kratos",
+                    "Atreus",
+                    "New Gameplay",
+                    "New Weapons",
+                    "Thor",
+                    "Norse Mythology",
+                    "World tree",
+                    "New Gameplay Trailer",
+                    "Svartelheim",
+                    "svartalfheim tower",
+                    "realms"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "New God of War Ragnarök Trailer Reaction",
+                    "description": "So I'm gonna be busy for a couple of days \n\n----------------------------------MUSIC------------------------------------\nIntro and outro music by Max Jerry \nWebsite: https://tinyurl.com/bdcv2948 \nInstagram: https://www.instagram.com/maxjerryy/\n\n-------------------------------ANIMATION--------------------------\nIntro and Outro Animation by Danilo Rocha\nEmail: danilogottr@gmail.com\nInstagram: https://www.instagram.com/kratosmemories/\n\n-----------------------------CHANNEL ART--------------------------------\nArtist: Haider Naqashy https://www.instagram.com/haidernaqashy/\n\n------------------------- ABOUT MY CHANNEL ------------------------- \nProviding the video game world with the very best theories, livestreams, playthroughs, lore videos, and gaming content since 2014! Although mostly geared towards God of War content, I’m committed to delivering the latest information on interests surrounding gaming entertainment. Gaming is my absolute passion and with my wide variety of content, you are sure to find something that keeps you watching.\nWhether you are a seasoned, die-hard God of War fan or just a casual player, you can expect to learn something that you hadn’t known before when subscribing to my channel!  \n\n\n------------------------- SOCIAL MEDIA ------------------------- \nTwitter: https://twitter.com/KaptainKuba\nInstagram: https://www.instagram.com/kaptain_kuba\nMy Second Youtube Channel: https://www.youtube.com/c/KubasGamingBunker\n\n\n------------------- SUPPORT THE CHANNEL -------------------\nBecome a Member: www.youtube.com/c/KaptainKuba/join\nMy Merch Store: https://kaptain-kubas-store.creator-spring.com\nDonations: https://paypal.me/KaptainKuba?locale.x=en_US\nGet 10% off your order using KAPTEESKUBA or click this link: https://intotheam.com/KAPTEESKUBA\n\n\n------------------- FOR BUSINESS INQUIRES ONLY -------------------\nI am available for collaborations, sponsorships, interviews, and more! If you are interested in contacting me for a business opportunity, please send an email to: KaptainKubaBusiness@gmail.com\n\n--------------------------------------------------------------------------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dFk47Jao1ridCyEdJWysg52wdhw",
+            "id": "BY6MZuTQXb8",
+            "snippet": {
+                "publishedAt": "2022-09-13T19:00:05Z",
+                "channelId": "UCeGGpOehPGG7vQMUVc7tG8Q",
+                "title": "Disney's Pinocchio Remake is INSULTINGLY BAD...",
+                "description": "Thank you Helix for sponsoring! Visit https://helixsleep.com/saberspark to get up to $200 off your Helix mattress, plus two free pillows\n\n🔥Saber's Social Media🔥\n\n►Watch More of Saber's Reviews Here: https://tinyurl.com/y5e3ya5j\n►Follow Saber on Twitter: https://twitter.com/Saberspark\n►Follow Saber on Twitch - https://www.twitch.tv/saberspark_\n►Support Saber on Patreon: https://www.patreon.com/saberspark\n►Join and become a YouTube Member for exclusive perks: https://tinyurl.com/rbc4e9h\n\n✅Video Credits✅\n\n►Video Edits and Thumbnail by Aficionados Chris\nhttps://www.youtube.com/c/AficionadosChris\n►Audio Edits by dBPony\nhttps://www.youtube.com/user/dBPonyMusic\n►Intro Music/Outro Music by Hirosashii\nhttps://www.youtube.com/user/Hirosashii\n►Additional Avatar Pics by Flutter Spartan \nhttps://twitter.com/FlutterSpartan\n►Avatar Pics by Acid Neko\nhttps://twitter.com/xXacidnekoXx\n►Music by Home\nhttps://soundcloud.com/home-2001",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BY6MZuTQXb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BY6MZuTQXb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BY6MZuTQXb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saberspark",
+                "tags": [
+                    "pinocchio trailer",
+                    "pinocchio review",
+                    "pinocchio 2022",
+                    "pinocchio 2022 review",
+                    "tom hanks",
+                    "pinocchio movie review",
+                    "pinocchio disney plus",
+                    "pinocchio 2022 movie review",
+                    "live action",
+                    "saberspark",
+                    "saber"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Disney's Pinocchio Remake is INSULTINGLY BAD...",
+                    "description": "Thank you Helix for sponsoring! Visit https://helixsleep.com/saberspark to get up to $200 off your Helix mattress, plus two free pillows\n\n🔥Saber's Social Media🔥\n\n►Watch More of Saber's Reviews Here: https://tinyurl.com/y5e3ya5j\n►Follow Saber on Twitter: https://twitter.com/Saberspark\n►Follow Saber on Twitch - https://www.twitch.tv/saberspark_\n►Support Saber on Patreon: https://www.patreon.com/saberspark\n►Join and become a YouTube Member for exclusive perks: https://tinyurl.com/rbc4e9h\n\n✅Video Credits✅\n\n►Video Edits and Thumbnail by Aficionados Chris\nhttps://www.youtube.com/c/AficionadosChris\n►Audio Edits by dBPony\nhttps://www.youtube.com/user/dBPonyMusic\n►Intro Music/Outro Music by Hirosashii\nhttps://www.youtube.com/user/Hirosashii\n►Additional Avatar Pics by Flutter Spartan \nhttps://twitter.com/FlutterSpartan\n►Avatar Pics by Acid Neko\nhttps://twitter.com/xXacidnekoXx\n►Music by Home\nhttps://soundcloud.com/home-2001"
+                }
+            }
+        }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+    }
+}
