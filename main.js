@@ -2,10 +2,66 @@
 
 // 'https://youtube.googleapis.com/youtube/v3/search?q=bts&key=[YOUR_API_KEY]'
 // https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=8&type=video&key=AIzaSyAe_Wyo2ZEfMacmxgMMAD8M8KXeedKji8U
-// 'https://youtube.googleapis.com/youtube/v3/videoCategories?part=snippet&key=[YOUR_API_KEY]'
 
 let searchInput = document.querySelector(".search-input");
+let youtubeLogo = document.querySelector(".logo");
 let videoList = [];
+
+// 메인 렌더 함수
+const render = () => {
+  let videoHTML = "";
+  
+  videoHTML = videoList.map((item) => {
+    let id = item.id.videoId;
+    if(id == undefined){
+      id = item.id;
+    }else {
+      id = item.id.videoId;
+    }
+    return `
+    <div class="video">
+      <div class="video-img-box">
+        <a href="https://www.youtube.com/watch?v=${id}" target="_blank">
+          <div class="video-img">
+            <img src="${item.snippet.thumbnails.medium.url}" alt=""/>
+          </div>
+          <div class="video-img-text">
+            <p>클릭하여 해당영상으로 이동</p>
+          </div>
+        </a>
+      </div>
+      <div class="video-detail">
+        <a href="https://www.youtube.com/channel/${item.snippet.channelId}" class="avatar-link" target="_blank">
+          <img
+            src=${item.snippet.thumbnails.default.url}
+            alt=""
+            id="avatar-link-img"
+          />
+        </a>
+        <div class="detail-description">
+          <h3>
+            <a href="https://www.youtube.com/watch?v=${id}" target="_blank">${item.snippet.title.length > 50 ? item.snippet.title.substring(0, 50) + "..."
+            : item.snippet.title}</a>
+          </h3>
+          <div>
+          <div>
+            <a href="https://www.youtube.com/watch?v=${id}" class="channelTitle" target="_blank">${item.snippet.channelTitle}</a>
+          </div>
+          <div>
+            <a href="https://www.youtube.com/watch?v=${id}" class="publishedAt" target="_blank">
+              ${moment(item.snippet.publishedAt).fromNow()}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  `;
+  }).join('');
+
+  document.querySelector(".videos").innerHTML = videoHTML;
+}
+render();
 
 const getSearchVideo = async (value) => {
   let url = new URL(`https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=8&q=${value}&type=video&key=AIzaSyAe_Wyo2ZEfMacmxgMMAD8M8KXeedKji8U`);
@@ -41,86 +97,27 @@ searchInput.addEventListener('keypress', (e) => {
   }
 })
 
-// 현재 인기있는 채널 8개를 메뉴화면에 버튼으로 보여주기
-const mainMenu = async () => {
-  let list = [];
-  let buttonHTML = '';
-  let url = new URL(`https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=8&type=video&key=AIzaSyAe_Wyo2ZEfMacmxgMMAD8M8KXeedKji8U`);
-  let data = await fetch(url).then((response)=> response.json());
-  list = data.items;
-  
-  buttonHTML = list.map((item) => {
-    return `
-      <button>${item.snippet.channelTitle}</button>
-    `;
-  }).join('');
+// 메뉴바에 메뉴버튼을 클릭하면 해당된 메뉴를 검색어로 검색하기
+let menuBtn = document.querySelectorAll(".menu-buttons button");
+menuBtn.forEach((item) => item.addEventListener('click', (e) => {
+  let targetValue = e.target.innerHTML;
+  getSearchVideo(targetValue);
+}));
 
-  document.querySelector(".menu-buttons").innerHTML = buttonHTML;
-
-  // 메뉴바에 메뉴 클릭하면 해당된 메뉴로 검색해주기
-  let menuBtn = document.querySelectorAll(".menu-buttons button");
-  menuBtn.forEach((item) => item.addEventListener('click', (e) => {
-    let targetValue = e.target.innerHTML;
-    getSearchVideo(targetValue);
-  }));
-}
-mainMenu();
-
-// 맨처음 디폴트 화면
-const getVideo = async () => {
+// 맨처음 디폴트 화면에는 MostPopularVideo 영상들을 나열해줌
+const getMostPopularVideo = async () => {
   let url = new URL(`https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=8&type=video&key=AIzaSyAe_Wyo2ZEfMacmxgMMAD8M8KXeedKji8U`);
   let data = await fetch(url).then((response)=> response.json());
   videoList = data.items;
-  mainMenu(videoList);
+  
   render();
 }
-getVideo();
+// getMostPopularVideo();
 
-// 메인 렌더 함수
-const render = () => {
-  let videoHTML = "";
-  videoHTML = videoList.map((item) => {
-    return `
-    <div class="video">
-    <a href="https://www.youtube.com/watch?v=${item.id.videoId}">
-      <img
-      src=${item.snippet.thumbnails.medium.url}
-      alt=""
-      />
-    </a>
-    <div class="video-detail">
-      <a href="https://www.youtube.com/channel/${item.snippet.channelId}" class="avatar-link">
-        <img
-          src=${item.snippet.thumbnails.default.url}
-          alt=""
-          id="avatar-link-img"
-        />
-      </a>
-      <div class="detail-description">
-        <h3>
-          <a href="https://www.youtube.com/watch?v=${item.id.videoId}">${item.snippet.title.length > 50 ? item.snippet.title.substring(0, 50) + "..."
-          : item.snippet.title}</a>
-        </h3>
-        <div>
-          <div>
-            <a href="https://www.youtube.com/watch?v=${item.id.videoId}" class="channelTitle">${item.snippet.channelTitle}</a>
-          </div>
-          <div>
-            <a href="https://www.youtube.com/watch?v=${item.id.videoId}" class="publishedAt">
-              ${moment(item.snippet.publishedAt).fromNow()}
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  `;
-  }).join('');
-
-  document.querySelector(".video-board").innerHTML = videoHTML;
-}
-render();
-
+// 유튜브 로고를 클릭하면 맨처음 디폴트 영상들을 다시 보여주기
+youtubeLogo.addEventListener('click', () => {
+  getMostPopularVideo();
+})
 
 
 
