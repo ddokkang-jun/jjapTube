@@ -19,43 +19,43 @@ const render = () => {
       id = item.id.videoId;
     }
     return `
-    <div class="video">
-      <div class="video-img-box">
-        <a href="https://www.youtube.com/watch?v=${id}" target="_blank">
-          <div class="video-img">
-            <img src="${item.snippet.thumbnails.medium.url}" alt=""/>
-          </div>
-          <div class="video-img-text">
-            <p>클릭하여 해당영상으로 이동</p>
-          </div>
-        </a>
-      </div>
-      <div class="video-detail">
-        <a href="https://www.youtube.com/channel/${item.snippet.channelId}" class="avatar-link" target="_blank">
-          <img
-            src=${item.snippet.thumbnails.default.url}
-            alt=""
-            id="avatar-link-img"
-          />
-        </a>
-        <div class="detail-description">
-          <h3>
-            <a href="https://www.youtube.com/watch?v=${id}" target="_blank">${item.snippet.title.length > 50 ? item.snippet.title.substring(0, 50) + "..."
-            : item.snippet.title}</a>
-          </h3>
-          <div>
-          <div>
-            <a href="https://www.youtube.com/watch?v=${id}" class="channelTitle" target="_blank">${item.snippet.channelTitle}</a>
-          </div>
-          <div>
-            <a href="https://www.youtube.com/watch?v=${id}" class="publishedAt" target="_blank">
-              ${moment(item.snippet.publishedAt).fromNow()}
-            </a>
+      <div class="video">
+        <div class="video-img-box">
+          <a href="https://www.youtube.com/watch?v=${id}" target="_blank">
+            <div class="video-img">
+              <img src="${item.snippet.thumbnails.medium.url}" alt=""/>
+            </div>
+            <div class="video-img-text">
+              <p>클릭하여 해당영상으로 이동</p>
+            </div>
+          </a>
+        </div>
+        <div class="video-detail">
+          <a href="https://www.youtube.com/channel/${item.snippet.channelId}" class="avatar-link" target="_blank">
+            <img
+              src=${item.snippet.thumbnails.default.url}
+              alt=""
+              id="avatar-link-img"
+            />
+          </a>
+          <div class="detail-description">
+            <h3>
+              <a href="https://www.youtube.com/watch?v=${id}" target="_blank">${item.snippet.title.length > 50 ? item.snippet.title.substring(0, 50) + "..."
+              : item.snippet.title}</a>
+            </h3>
+            <div>
+            <div>
+              <a href="https://www.youtube.com/watch?v=${id}" class="channelTitle" target="_blank">${item.snippet.channelTitle}</a>
+            </div>
+            <div>
+              <a href="https://www.youtube.com/watch?v=${id}" class="publishedAt" target="_blank">
+                ${moment(item.snippet.publishedAt).fromNow()}
+              </a>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
   `;
   }).join('');
 
@@ -112,7 +112,7 @@ const getMostPopularVideo = async () => {
   
   render();
 }
-// getMostPopularVideo();
+getMostPopularVideo();
 
 // 유튜브 로고를 클릭하면 맨처음 디폴트 영상들을 다시 보여주기
 youtubeLogo.addEventListener('click', () => {

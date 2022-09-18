@@ -65,6 +65,7 @@ button {
 
 .search-area {
   display: flex;
+  margin-right: 400px;
 }
 
 .search-area input {
@@ -92,6 +93,10 @@ button {
 
 .search-btn:hover {
   background-color: #f0f0f0;
+}
+
+.mobile-search-area {
+  display: none;
 }
 
 .menu-area {
@@ -190,4 +195,44 @@ button {
 .channelTitle,
 .publishedAt {
   color: #606060;
+}
+
+@media screen and (max-width: 1070px){
+  
+}
+
+@media screen and (max-width: 765px){
+  .header-container {
+    padding: 0 20px;
+  }
+  .hambergerBtn {
+    display: block;
+  }
+  .search-area,
+  .menu-area {
+    display: none;
+  }
+  .mobile-search-area {
+    display: block;
+  }
+  .mobile-search-input {
+    display: none;
+  }
+  .mobile-search-btn {
+    font-size: 20px;
+  }
+  .video-board {
+    margin-top: 56px;
+  }
+  .videos {
+    grid-template-columns: 1fr;
+  }
+  .video-img img {
+    width: 560px;
+  }
+}
+@media screen and (max-width: 413px){
+  .video-img img {
+    width: 350px;
+  }
 }
