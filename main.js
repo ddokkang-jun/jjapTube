@@ -5,7 +5,35 @@
 
 let searchInput = document.querySelector(".search-input");
 let youtubeLogo = document.querySelector(".logo");
+let hambergerBtn = document.querySelector(".hambergerBtn");
+let closeBtn = document.querySelector(".closeBtn");
+let sideNavMenu = document.querySelectorAll(".sideMenuBtn-area button");
+let mainContainer = document.querySelector(".main-container");
+let logo = document.querySelector(".logo-area");
+let mobileSearchInput = document.querySelector(".mobile-search-input-area");
 let videoList = [];
+
+const openNav = () => {
+  document.querySelector(".sideNav").style.width = "250px";
+  mainContainer.style.opacity = "0.3";
+}
+const closeNav = () => {
+  document.querySelector(".sideNav").style.width = "0";
+  mainContainer.style.opacity = "1";
+}
+hambergerBtn.addEventListener('click', openNav);
+closeBtn.addEventListener('click', closeNav);
+
+// sideNavMenu.forEach((item) => item.addEventListener('click', (event) => {
+//   let topic = event.target.textContent.toLowerCase();
+//   callGetTopicNews(topic);
+// }))
+
+sideNavMenu.forEach((item) => item.addEventListener('click', (event) => {
+  let topic = event.target.textContent.toLowerCase();
+  getSearchVideo(topic);
+  closeNav();
+}));
 
 // 메인 렌더 함수
 const render = () => {
@@ -118,6 +146,30 @@ getMostPopularVideo();
 youtubeLogo.addEventListener('click', () => {
   getMostPopularVideo();
 })
+
+// go to Top btn
+let goToTopBtn = document.querySelector('#scrollTopBtn');
+
+const gotoTop = () => {
+  window.scrollTo({
+    top: 0,
+    left: 0,
+    behavior: 'smooth'
+  });
+}
+
+const scrollFunction = () => {
+  if(document.body.scrollTop > 20 || document.documentElement.scrollTop > 20){
+    goToTopBtn.style.display = "block";
+  }else {
+    goToTopBtn.style.display = "none";
+  }
+}
+
+goToTopBtn.addEventListener('click', gotoTop);
+window.onscroll = () => {
+  scrollFunction();
+}
 
 
 
