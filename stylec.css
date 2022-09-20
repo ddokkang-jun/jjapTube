@@ -90,6 +90,7 @@ button {
   height: 56px;
   padding: 0 50px;
 }
+
 .left-logo-area {
   display: flex;
   flex-direction: row;
@@ -250,7 +251,46 @@ button {
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
 
-@media screen and (max-width: 765px){
+.mobile-search-area {
+  display: none;
+  text-align: center;
+}
+.mobile-search-btn{
+  font-size: 20px;
+}
+.mobile-search-input {
+  height: 40px;
+  width: 180px;
+  border-radius: 4px;
+  border: 1px solid var(--gray-color);
+  font-size: 17px;
+  color: var(--gray-color);
+  padding: 2px 10px;
+}
+
+.mobile-search-input:active,
+.mobile-search-input:focus {
+  outline: 1px solid #c6c6c6;
+  color: black;
+}
+
+.mobile-input-area {
+  display: none;
+}
+
+.mobile-search-inner-btn {
+  font-size: 20px;
+}
+
+.mobile-search-toggle-btn-arrow-left {
+  display: none;
+}
+.mobile-getsearchBtn {
+  display: none;
+  font-size: 18px;
+}
+
+@media screen and (max-width: 768px){
   .header-container {
     padding: 0 20px;
   }
@@ -261,6 +301,9 @@ button {
   .menu-area {
     display: none;
   }
+  .logo-area {
+    margin-left: -20px;
+  }
   .video-board {
     margin-top: 56px;
   }
@@ -270,8 +313,13 @@ button {
   .video-img img {
     width: 560px;
   }
+  .mobile-search-area {
+    display: flex;
+    position: absolute;
+    right: 20px;
+  }
 }
-@media screen and (max-width: 413px){
+@media screen and (max-width: 413px){ 
   .video-img img {
     width: 350px;
   }

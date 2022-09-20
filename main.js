@@ -10,7 +10,9 @@ let closeBtn = document.querySelector(".closeBtn");
 let sideNavMenu = document.querySelectorAll(".sideMenuBtn-area button");
 let mainContainer = document.querySelector(".main-container");
 let logo = document.querySelector(".logo-area");
-let mobileSearchInput = document.querySelector(".mobile-search-input-area");
+let mobileGetSearchBtn = document.querySelector(".mobile-getsearchBtn");
+let mobileSearchInput = document.querySelector(".mobile-search-input");
+let logoArea = document.querySelector(".left-logo-area");
 let videoList = [];
 
 const openNav = () => {
@@ -108,7 +110,6 @@ searchBtn.addEventListener('click', () => {
       getSearchVideo(searchInputValue);
       searchInput.value = "";
     }
-  
 })
 // 키보드로 엔터를 누르면 검색을 해주는 기능 구현하기
 searchInput.addEventListener('keypress', (e) => {
@@ -159,10 +160,14 @@ const gotoTop = () => {
 }
 
 const scrollFunction = () => {
+  let headContainer = document.querySelector(".masterHead-container");
+  
   if(document.body.scrollTop > 20 || document.documentElement.scrollTop > 20){
     goToTopBtn.style.display = "block";
+    headContainer.style.borderBottom = "1px solid #ccc";
   }else {
     goToTopBtn.style.display = "none";
+    headContainer.style.borderBottom = "0";
   }
 }
 
@@ -171,7 +176,34 @@ window.onscroll = () => {
   scrollFunction();
 }
 
+// 모바일 search input control
+const openSearchBox = () => {
+  let mobileInputArea = document.querySelector(".mobile-input-area");
+  if(mobileInputArea.style.display === "block"){
+    mobileInputArea.style.display = "none";
+  }else {
+    mobileInputArea.style.display = "block";
+  }
+}
+let mobileSearchBtn = document.querySelector(".mobile-search-toggle-btn");
+mobileSearchBtn.addEventListener("click", () => {
+  mobileGetSearchBtn.style.display = "block";
+  mobileSearchBtn.style.display = "none";
+  openSearchBox();
+});
 
-
+// 모바일 search button control : API 호출하기
+mobileGetSearchBtn.addEventListener("click", () => {
+  let mobileSearchValue = mobileSearchInput.value;
+  if(mobileSearchValue == '' ){
+      mobileGetSearchBtn.style.display = "none";
+      mobileSearchBtn.style.display = "block";
+      openSearchBox();
+      return;
+    }else {
+      getSearchVideo(mobileSearchValue);
+      mobileSearchInput.value = "";
+    }
+})
 
 
